@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Breno!
 - 👀 Looking to share a little of what I do
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JS, Html & CSS.
 - 📫 How to reach me brenosouzatavares2003@gmail.com
